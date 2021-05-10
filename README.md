@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kalekarnn, A developer by choice, not by chance. Discovering IT is a hobby. Carry the entrepreneur's mindset and can-do attitude. Open-minded and easy-going.
+- 👋 Hi, I’m Narendra, A developer by choice, not by chance. Discovering IT is a hobby. Carry the entrepreneur's mindset and can-do attitude. Open-minded and easy-going.
 - 👀 I’m interested in platform building, Event Driven Architectures, Server-less, Data Structures and Algorithms.
 - 🌱 I’m currently learning GraphQL, Golang
 - 💞️ I’m looking to collaborate on distributed, highly scalable & maintainable software architectures.
