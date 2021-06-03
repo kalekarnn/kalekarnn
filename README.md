@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning GraphQL, Golang
 - 💞️ I’m looking to collaborate on distributed, highly scalable & maintainable software architectures.
 - 📫 How to reach me --> https://www.linkedin.com/in/narendrakalekar/
+- ✨ My YouTube channel --> https://www.youtube.com/channel/UCrX_nWSzLMR43BLsuLJYvgw
 
 <!---
 kalekarnn/kalekarnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
