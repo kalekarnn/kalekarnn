@@ -16,11 +16,33 @@
 ### :zap: Who am I
 - 👋 I’m A developer by choice, not by chance. Discovering IT is a hobby. Carry the entrepreneur's mindset and can-do attitude. Open-minded and easy-going.
 - 💞️ I’m interested in platform building, Event Driven Architectures, Server-less, Data Structures and Algorithms.
-- 🌱 I’m currently learning GraphQL, Golang
+- 🌱 I’m currently learning GenAI, AGI.
 - 👀 I’m looking to collaborate on distributed, highly scalable & maintainable software architectures.
-- 📬 How to reach me: <a href="https://www.linkedin.com/in/narendrakalekar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<!--- - 📬 How to reach me: <a href="https://www.linkedin.com/in/narendrakalekar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp; -->
 
 <br>
+
+### :zap: Connect with me:
+
+<p align="left"> <a href="https://www.linkedin.com/in/narendrakalekar/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narendrakalekar" height="30" width="40" /> </a> <a href="https://twitter.com/NarendraThinks" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NarendraThinks" height="30" width="40" /> </a> <a href="https://www.youtube.com/@appliedlogics1974" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pableboo" height="30" width="40" /> </a> </p>
+
+<br>
+
+ <!-- 
+ ### SkillSet:
+
+|  | **Tools** |
+| --- | --- |
+| **Languages** | <a href="[https://en.wikipedia.org/wiki/C_(programming_language)](https://en.wikipedia.org/wiki/Java_(programming_language))"><img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" height="60px" width="60px" /></a><a href="https://www.python.org/"><img align="left" src="images/python.svg" height="60px" width="60px" /></a><a href="https://www.javascript.com/"><img align="left" src="images/js.png" height="60px" width="60px" /></a><a href="https://www.typescriptlang.org/"><img align="left" src="images/ts.png" height="60px" width="60px" /></a> |
+| **Databases** | <a href="https://www.mongodb.com/"><img align="left" src="images/mongo.svg" height="60px" width="60px" /></a><a href="https://www.mysql.com/"><img align="left" src="images/mysql.png" height="60px" width="80px" /></a> |
+| **Frameworks** | <a href="https://expressjs.com/"><img align="left" src="images/express.png" height="50px" width="150px" /></a><a href="https://fastapi.tiangolo.com/"><img align="left" src="images/fastapi.png" height="60px" width="150px" /></a><a href="https://getbootstrap.com/"><img align="left" src="images/bootstrap.png" height="50px" width="60px" /></a><a href="https://angular.io/"><img align="left" src="images/angular.svg" height="60px" width="60px" /></a> |
+| **Libraries** | <a href="https://reactjs.org/"><img align="left" src="images/react.png" height="60px" width="60px" /></a><a href="https://redux.js.org/"><img align="left" src="images/redux.png" height="50px" width="60px" /></a><a href="https://jquery.com/"><img align="left" src="images/jquery.png" height="60px" width="60px" /></a> |
+| **Toolkits** | <a href="https://nodejs.org/en/"><img align="left" src="images/node.svg" height="55px" width="55px" /></a><a href="https://www.postman.com/"><img align="left" src="images/postman.png" height="60px" width="60px" /></a><a href="https://git-scm.com/"><img align="left" src="images/git.png" height="60px" width="60px" /></a><a href="https://www.docker.com/"><img align="left" src="images/docker.png" height="50px" width="70px" /></a> |
+| **Cloud Services** | <a href="https://aws.amazon.com/"><img align="left" src="images/aws.png" height="60px" width="60px" /></a><a href="https://www.heroku.com"><img align="left" src="images/heroku.png" height="60px" width="60px" /></a> |
+| **Platforms** | <a href="https://www.jetbrains.com/pycharm/"><img height="40" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"><img align="left" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" height="60px" width="60px" /></a><a href="https://www.linux.org/"><img align="left" src="[images/linux.jpg](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png)" height="60px" width="60px" /></a> |
+
+<br>
+-->
 
 ### :zap: Languages and Tools: 
 
