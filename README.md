@@ -3,7 +3,7 @@
   <h1 align="center"><b>Hello there, I'm Narendra 👋</b></h1>
 </p>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Back+End+Developer;DS%20|%20Algo%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Back+End+Developer;DS%20|%20Algo%20|%20AI%20%20ML%20|%20GenAI%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 <br>
@@ -16,7 +16,7 @@
 ### :zap: Who am I
 - 👋 I’m A developer by choice, not by chance. Discovering IT is a hobby. Carry the entrepreneur's mindset and can-do attitude. Open-minded and easy-going.
 - 💞️ I’m interested in platform building, Event Driven Architectures, Server-less, Data Structures and Algorithms.
-- 🌱 I’m currently learning GenAI, AGI.
+- 🌱 I’m currently exploring GenAI, Agentic AI and Human Computer Use.
 - 👀 I’m looking to collaborate on distributed, highly scalable & maintainable software architectures.
 <!--- - 📬 How to reach me: <a href="https://www.linkedin.com/in/narendrakalekar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp; -->
 
