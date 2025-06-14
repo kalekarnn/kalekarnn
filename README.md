@@ -24,7 +24,7 @@
 
 ### :zap: Connect with me:
 
-<p align="left"> <a href="https://www.linkedin.com/in/narendrakalekar/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narendrakalekar" height="30" width="40" /> </a> <a href="https://twitter.com/NarendraThinks" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NarendraThinks" height="30" width="40" /> </a> <a href="https://www.youtube.com/@appliedlogics1974" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pableboo" height="30" width="40" /> </a> </p>
+<p align="left"> <a href="https://twitter.com/NarendraThinks" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NarendraThinks" height="30" width="40" /> </a> <a href="https://www.youtube.com/@appliedlogics1974" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pableboo" height="30" width="40" /> </a> </p>
 
 <br>
 
